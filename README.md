@@ -32,6 +32,7 @@ Target created using shift(-1) (next day prediction)
 Model trained using Random Forest
 Predictions generated for test dataset
 Results visualized using line plot
+
 **📊 Key Results & Findings**
 Model successfully learned patterns from historical stock data
 Predicted values closely follow actual closing price trends
