@@ -15,6 +15,7 @@ Volume
 Target Variable:
 Next Day Close Price
 
+
 **🤖 Models Applied**
 Random Forest Regressor
 n_estimators = 100
@@ -22,6 +23,7 @@ random_state = 42
 Data split method:
 Train-Test Split (80% training, 20% testing)
 No shuffling (time-series data preserved)
+
 **📈 Methodology**
 
 Data fetched using yfinance
